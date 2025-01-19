@@ -1,0 +1,11 @@
+jupyter>=1.0.0
+tensorflow>=2.2.0
+numpy>=1.19.1
+scipy>=1.5.2
+pandas>=1.1.0
+matplotlib>=3.3.0
+scikit-learn>=0.23.1
+shap>=0.35.0
+lime>=0.2.0.1
+facets-overview>=1.0.0
+witwidget>=1.7.0
